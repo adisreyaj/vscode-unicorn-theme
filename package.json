@@ -1,0 +1,29 @@
+{
+    "name": "girl-unicorn-theme",
+    "displayName": "Girl,Do you like Unicorn?",
+    "description": "Do you even Code Girl? This is a special theme for all those lovely girl coders out there. Stay awesome and code like a unicorn.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adisreyaj/vscode-unicorn-theme.git"
+    },
+    "publisher": "adisreyaj",
+    "galleryBanner": {
+        "color": "#373436",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [{
+            "label": "Girl, Do you like Unicorn?",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Girl, Do you like Unicorn-color-theme.json"
+        }]
+    }
+}
