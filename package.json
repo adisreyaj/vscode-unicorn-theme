@@ -9,6 +9,13 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "girl theme",
+        "unicorn theme",
+        "pink",
+        "girl coder"
+    ],
     "icon": "images/logo.png",
     "repository": {
         "type": "git",
@@ -16,7 +23,7 @@
     },
     "publisher": "adisreyaj",
     "galleryBanner": {
-        "color": "#373436",
+        "color": "#150029",
         "theme": "dark"
     },
     "contributes": {
